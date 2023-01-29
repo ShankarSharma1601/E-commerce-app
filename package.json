@@ -1,0 +1,15 @@
+{
+  "name": "E-commerce",
+  "version": "1.0.0",
+  "description": "E-commerce App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Shankar Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
