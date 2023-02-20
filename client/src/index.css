@@ -94,4 +94,25 @@ font-family: 'Poppins', sans-serif; */
   margin-top: 10px;
 }
 
+.pnf-btn:hover{
+  background-color: black;
+  color: white;
+}
+
 /* ---------- Page Not Found ----------- */
+
+
+/* ---------- contact us --------- */
+
+.contactus{
+  margin: 0;
+  padding: 0;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ---------- contact us --------- */
+
+
